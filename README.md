@@ -34,15 +34,15 @@ Before learning more about Latex, it can be helpful to have an understanding of 
 
 Once you login, you can create a new blank project
 
-<img src="img/overleaf_new_project_2.png" alt="New Blank Project" width="600"/>
+![Overleaf new project](img/overleaf_new_project.png)
 
 Notice that there are several options of templates, including the official KAUST templates for thesis and dissertation template. There are options for letters, books, CV/Resume, and others.
 
 We will start with the _blank template_, and we will add content to our article.
 
-After choosing the blank template, Overleaf will ask for a name for your project. You can give any meaninful name, like _my first article_. And your new article should looks like the following picture
+After choosing the blank template, Overleaf will ask for a name for your project. You can give any meaningful name, like _my first article_. And your new article should looks like the following picture
 
-![Blank template](img/overleaf_template_blank_article.png)
+![Blank template](img/overleaf_new_blank_article.png)
 
 Try to compile the text, and have a look at the PDF file.
 
@@ -60,12 +60,6 @@ You can go one step further, and add font size, like 11pt or 12pt
 
 ```LaTeX
 \documentclass[10pt,a4paper]{article}
-```
-
-Next comes the list of packages that the text will use. In this case we are defining only the _encoding_, and `utf8` is the recommended. Unless you have a very specific need, don't remove the line. 
-
-```LaTeX
-\usepackage[utf8]{inputenc}  % !! Don't touch this line !!
 ```
 
 ### Top Matter
@@ -289,7 +283,7 @@ and only those files will be included in the main document.
 
 To add [images to a LaTeX document](https://www.overleaf.com/learn/how-to/Including_images_on_Overleaf) in Overleaf, it's necessary to upload them first. It's recommended to create a folder for the images so they are separated from the regular documents.
 
-![Create folder](img/overleaf_create_folder.png)
+![Create folder](img/overleaf_new_folder.png)
 
 Give a name to your folder, something like `img,` or `images,` or `pictures`. 
 
