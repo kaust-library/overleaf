@@ -6,11 +6,11 @@ Or how to learn basic LaTeX with Overleaf in 30 minutes.
 
 [Overveaf login page](https://www.overleaf.com)
 
-<img src="img/overleaf_login.png" alt="Overleaf login page" width="600"/>
+<img src="img/overleaf_homepage_login.png" alt="Overleaf login page"/>
 
 Next use the option to "Log in through your institution" to login using your KAUST credentials
 
-<img src="img/overleaf_login_institution.png" alt="Login via institution" width="600"/>
+<img src="img/overleaf_login_sso.png" alt="Login via institution"/>
 
 ## Text
 
