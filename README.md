@@ -12,6 +12,16 @@ Next use the option to "Log in through your institution" to login using your KAU
 
 <img src="img/overleaf_login_sso.png" alt="Login via institution"/>
 
+After the login, that a few moments to explore the **Premium Features** available through our subscription:
+
+![Premium features](img/overleaf_link_Premium.png)
+
+[Premium Features](https://docs.overleaf.com/getting-started/free-and-premium-plans/premium-features) available.
+
+In particular, it could be interesting to explore integrations with GitHub and Zotero. 
+
+![Integrations with overleaf](img/overleaf_synch_and_reference_manager.png)
+
 ## Text
 
 ### Latex Document Structure
